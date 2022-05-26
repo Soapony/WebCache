@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\WebCache\Client\bin\Debug\net6.0-windows\Client.exe
+C:\Users\Administrator\Desktop\WebCache\Client\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\Administrator\Desktop\WebCache\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\Administrator\Desktop\WebCache\Client\bin\Debug\net6.0-windows\Client.dll
+C:\Users\Administrator\Desktop\WebCache\Client\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.Form1.resources
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.dll
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\refint\Client.dll
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.pdb
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WebCache\Client\obj\Debug\net6.0-windows\ref\Client.dll

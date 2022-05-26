@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\WebCache\CacheServer\bin\Release\net6.0-windows\CacheServer.exe
+C:\Users\Administrator\Desktop\WebCache\CacheServer\bin\Release\net6.0-windows\CacheServer.deps.json
+C:\Users\Administrator\Desktop\WebCache\CacheServer\bin\Release\net6.0-windows\CacheServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\WebCache\CacheServer\bin\Release\net6.0-windows\CacheServer.dll
+C:\Users\Administrator\Desktop\WebCache\CacheServer\bin\Release\net6.0-windows\CacheServer.pdb
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.Form1.resources
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.dll
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\refint\CacheServer.dll
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.pdb
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\CacheServer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WebCache\CacheServer\obj\Release\net6.0-windows\ref\CacheServer.dll
